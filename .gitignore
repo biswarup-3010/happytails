@@ -6,9 +6,8 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-
 node_modules
-dist
+/dist
 dist/assets/*
 dist-ssr
 *.local
@@ -18,4 +17,3 @@ dist-ssr
 !.vscode/extensions.json
 .idea
 .DS_Store
-/node_modules
